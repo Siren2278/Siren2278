@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in full
   - **Backend:** Python (Django, Flask)
   - **Database:** MySQL
   - **Other Tools:** Google Colab, Git, GitHub
-- 📊 **Projects:** Working on an Inventory Management System (MIS) and a Google Search Clone using React.
+- 📊 **Projects:** Working on AI recommendation hostel finder application, ai powered healthcare scheduling appointment application. Done with ecommerce online shopping website using MERN stack
 - 🎯 **Interests:** Web development, data visualization, APIs, and system design.
 - 🌍 **Open Source Contributions:** Actively contributing to community-driven projects and improving existing solutions.
 
@@ -16,9 +16,9 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in full
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siren2278&show_icons=true&theme=radical)
 
 ## 🌐 Connect With Me
-- **GitHub:** [github.com/your-github-username](https://github.com/Siren2278)
-- **LinkedIn:** [linkedin.com/in/your-linkedin-profile](https://linkedin.com/in/dominic-musyoki6809)
-- **Twitter:** [twitter.com/your-twitter-handle](https://twitter.com/MusyokiDominic9)
+- **GitHub:** [https://github.com/Siren2278](https://github.com/Siren2278)
+- **LinkedIn:** [https://linkedin.com/in/dominic-musyoki6809](https://linkedin.com/in/dominic-musyoki6809)
+- **Twitter:** [https://twitter.com/MusyokiDominic9](https://twitter.com/MusyokiDominic9)
 
 ## 🏆 Achievements
 - Built a functional **Inventory Management System** with Django & MySQL.
